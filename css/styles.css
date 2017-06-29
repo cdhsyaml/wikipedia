@@ -1,0 +1,19 @@
+.sidebar {
+  float:left;
+  width:10%;
+}
+.sidebar li{
+  list-style: none;
+}
+.jumbotron{
+  width:100%;
+
+}
+
+.container-main{
+  width:90%;
+  float:right;
+}
+.toplinks{
+  float:right;
+}
